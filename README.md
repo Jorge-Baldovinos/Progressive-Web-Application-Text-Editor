@@ -1,4 +1,4 @@
-# Note Taker
+# Text Editor PWA
 
 ## Description
 This website [website](https://just-another-text-editor-vedy.onrender.com) serves as a text editor that runs in the browser online or offline and will by taking advantage of progressive web application technologies. The website is made using refactored code from a coding boot camp challenge. 
